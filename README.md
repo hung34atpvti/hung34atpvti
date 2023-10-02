@@ -12,8 +12,7 @@
     + Knowledge sharing among team members.
     + Tools: Git, Jira.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hung34atpvti&exclude_repo=ttkt,trames-fe-docker,ttkt-deploy,express-test,invest-management,create-react-app-tokenize,brain,english-quizzes,ricey,ai-assignment&hide=SCSS&layout=compact&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="Crying" width="200" src="![image](https://github.com/hung34atpvti/hung34atpvti/assets/58623903/9c80a454-70f8-478a-a865-5ad383dde0fc)
-">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hung34atpvti&exclude_repo=ttkt,trames-fe-docker,ttkt-deploy,express-test,invest-management,create-react-app-tokenize,brain,english-quizzes,ricey,ai-assignment&hide=SCSS&layout=compact&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="Crying" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png">
 
 [![Declan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hung34atpvti&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
 
